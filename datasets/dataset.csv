@@ -1,0 +1,81 @@
+Tipus d'error,Interferència del castellà,Masked,Resposta normativa,Resposta no normativa freqüent
+caiguda_prep,Sí,Em refereixo <mask> que va cantar.,al,a
+caiguda_prep,Sí,Parlo <mask> que va sortir l’altre dia al diari,del,de
+caiguda_prep,Sí,Depèn <mask> que decideixin els experts.,del,de
+caiguda_prep,Sí,No es recorda <mask> que li vaig explicar.,del,de
+caiguda_prep,Sí,No m’havia adonat <mask> que estava equivocat.,del,de
+caiguda_prep,Sí,Em refereixo <mask> que va fer una nova pel·lícula.,al,a
+caiguda_prep,Sí,Parlo <mask> que moure la caixa de lloc. ,del,de
+caiguda_prep,Sí,Depèn <mask> que vulgin fer.,del,de
+caiguda_prep,Sí,No es recorda <mask> que va veure aquell dia.,del,de
+caiguda_prep,Sí,No m'havia adonat <mask> que estava mal col·locat.,del,de
+a_od,Sí,Això afecta <mask> trànsit aeri.,el,al
+a_od,Sí,He vist <mask> cotxe nou.,el,al
+a_od,Sí,L’entrenador felicitarà <mask> jugadors després del partit.,els,als
+a_od,Sí,L’empresa vol formar <mask> seus treballadors.,els,als
+a_od,Sí,Estic esperant <mask> professor per resoldre un dubte.,el,al
+a_od,Sí,Han acomiadat <mask> empleats més antics de l’empresa.,el,al
+a_od,Sí,Sempre ajuda <mask> seus companys quan ho necessiten.,els,als
+a_od,Sí,El professor ha avisat <mask> alumnes sobre el canvi d’horari.,els,als
+a_od,Sí,El jutge ha interrogat <mask> testimonis del cas.,els,als
+a_od,Sí,Han seleccionat <mask> millors candidats per al lloc de feina.,els,als
+com_reg,Sí,Al restaurant fa molta olor <mask> fregit.,de,a
+com_reg,Sí,Tinc por <mask> les aranyes.,de,a
+com_reg,Sí,El meu horari és diferent <mask> teu.,del,al
+com_reg,Sí,La solució <mask> problema és molt senzilla.,del,al
+com_reg,Sí,La noia va aprofitar per treure profit <mask> la situació i va guanyar molts diners.,de,a
+com_reg,Sí,Va fer cas <mask> les recomanacions del metge.,de,a
+com_reg,Sí,Sento una forta pudor <mask> cremat a la cuina.,de,a
+com_reg,Sí,L’article fa esment <mask> diverses investigacions recents.,de,a
+com_reg,Sí,Va mostrar un clar rebuig <mask> la proposta.,de,a
+com_reg,Sí,Hauries de fer un bon repàs <mask> la matèria abans de l’examen.,de,a
+alt_prep,Sí,Tenim molt d'interès <mask> complir els nostres compromisos.,a,en
+alt_prep,Sí,La idea consisteix <mask> analitzar els models.,a,en
+alt_prep,Sí,La majoria d'estudiants es van mostrar d'acord <mask> fer una pausa.,a,en
+alt_prep,Sí,La van amenaçar <mask> despatxar-la.,de,amb
+alt_prep,Sí,Insisteixen <mask> tornar cap a casa.,a,en
+alt_prep,Sí,Va mostrar interès <mask> aprendre nous mètodes per fer aquests exercicis.,a,en
+alt_prep,Sí,L'exercici es basa <mask> explicar les circumstàncies del conflicte.,a,en
+alt_prep,Sí,Ens complaem <mask> acceptar la vostra col·laboració.,a,en
+alt_prep,Sí,"Engrescat <mask> fundar la coral, tot el temps que hi dedica li sembla poc.",a,en
+alt_prep,Sí,"Estava tan capficat <mask> completar la jugada, que no es va adonar que el temps s'havia acabat. ",a,en
+motiu_de,No,"<mask> motiu de la seva jubilació, li van organitzar una festa sorpresa.",Amb,En
+motiu_de,No,La botiga va tancar <mask> motiu de les obres al carrer.,amb,en
+motiu_de,No,Es va organitzar un concert benèfic <mask> motiu de la recaptació de fons.,amb,en
+motiu_de,No,"<mask> motiu del Dia del Llibre, les llibreries fan descomptes.",Amb,En
+motiu_de,No,Van cancel·lar el vol <mask> motiu del mal temps.,amb,en
+motiu_de,No,L'ajuntament va emetre un comunicat <mask> motiu de la nova normativa.,amb,en
+motiu_de,No,Es va tallar el trànsit <mask> motiu de la manifestació.,amb,en
+motiu_de,No,La reunió es va ajornar <mask> motiu de l'absència del director.,amb,en
+motiu_de,No,"<mask> motiu de la celebració, el museu ofereix entrada gratuïta.",Amb,En
+motiu_de,No,L'empresa va fer una donació <mask> motiu de la campanya solidària.,amb,en
+confiar,No,Pots confiar <mask> mi per guardar el secret.,en,amb
+confiar,No,"No confio <mask> les seves promeses, sempre les incompleix.",en,amb
+confiar,No,Cal confiar <mask> el criteri dels experts.,en,amb
+confiar,No,He après a no confiar <mask> qualsevol que sembli amable.,en,amb
+confiar,No,"Perquè la relació funcioni, heu de confiar l'un <mask> l'altre.",en,amb
+confiar,No,Confiem <mask> que tot sortirà bé al final.,en,amb
+confiar,No,És difícil confiar <mask> algú que t'ha mentit abans.,en,amb
+confiar,No,Els ciutadans confien <mask> la justícia del seu país.,en,amb
+confiar,No,Confio plenament <mask> les teves capacitats per liderar el projecte.,en,amb
+confiar,No,La directora confia <mask> tot el seu equip per assolir els objectius.,en,amb
+anar,No,Vés <mask> compte quan creuis el carrer.,amb,en
+anar,No,"Aneu <mask> compte amb el terra, que rellisca.",amb,en
+anar,No,Cal anar <mask> compte a l'hora de signar contractes.,amb,en
+anar,No,Sempre vaig <mask> compte amb el que dic en públic.,amb,en
+anar,No,Van anar <mask> molt de compte per no fer soroll.,amb,en
+anar,No,"Si no vas <mask> compte, et pots fer mal.",amb,en
+anar,No,"Anem <mask> compte, que no sabem què ens trobarem.",amb,en
+anar,No,El metge li va dir que anés <mask> compte amb els greixos.,amb,en
+anar,No,"És una situació delicada, hem d'anar <mask> compte".,amb,en
+anar,No,Aneu <mask> compte amb les estafes per internet.,amb,en
+propens,No,És molt propens <mask> agafar refredats a l'hivern.,a,de
+propens,No,Aquesta planta és propensa <mask> les plagues si no la cuides bé.,a,de
+propens,No,Els adolescents són més propensos <mask> prendre riscos innecessaris.,a,de
+propens,No,Les persones amb pells clares són propenses <mask> les cremades solars.,a,de
+propens,No,El meu oncle és propens <mask> explicar sempre les mateixes anècdotes.,a,de
+propens,No,Aquesta zona és propensa <mask> les inundacions quan plou fort.,a,de
+propens,No,Som propensos <mask> oblidar les claus a casa.,a,de
+propens,No,No sóc gens propens <mask> enfadar-me per tonteries.,a,de
+propens,No,Les economies inestables són propenses <mask> patir crisis financeres.,a,de
+propens,No,Aquest material és propens <mask> l'oxidació si s'exposa a la humitat.,a,de
