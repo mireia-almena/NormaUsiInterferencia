@@ -1,0 +1,641 @@
+index,model,tipus,snormatiu,sno_normatiu,pnormatiu,pno_normatiu
+0,BSC-LT/salamandra-7b,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,5.521104335784912,5.800073146820068
+1,BSC-LT/salamandra-7b,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,3.978881120681762,3.833086252212525
+2,BSC-LT/salamandra-7b,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,4.384488582611084,5.155601501464844
+3,BSC-LT/salamandra-7b,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,5.354294300079346,5.611465930938721
+4,BSC-LT/salamandra-7b,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,3.709407806396485,3.449049711227417
+5,BSC-LT/salamandra-7b,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,4.058165073394775,4.062150001525879
+6,BSC-LT/salamandra-7b,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,6.143495559692383,5.7049336433410645
+7,BSC-LT/salamandra-7b,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.77679443359375,5.464385986328125
+8,BSC-LT/salamandra-7b,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,4.498668193817139,4.931491851806641
+9,BSC-LT/salamandra-7b,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,3.200523853302002,3.055111885070801
+10,BSC-LT/salamandra-7b,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,5.216104984283447,5.236165523529053
+11,BSC-LT/salamandra-7b,a_od,He vist el cotxe nou.,He vist al cotxe nou.,5.145542621612549,6.152061939239502
+12,BSC-LT/salamandra-7b,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,3.608778715133667,3.6301040649414062
+13,BSC-LT/salamandra-7b,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,4.1954450607299805,4.265915870666504
+14,BSC-LT/salamandra-7b,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,4.765780448913574,4.8319411277771
+15,BSC-LT/salamandra-7b,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,4.495141506195068,4.502742767333984
+16,BSC-LT/salamandra-7b,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,5.107345104217529,4.9499359130859375
+17,BSC-LT/salamandra-7b,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,3.407715082168579,3.392650842666626
+18,BSC-LT/salamandra-7b,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,4.266679286956787,4.405411720275879
+19,BSC-LT/salamandra-7b,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,4.14312744140625,4.348514556884766
+20,BSC-LT/salamandra-7b,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,4.479429244995117,4.548370361328125
+21,BSC-LT/salamandra-7b,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,5.241710662841797,5.38523006439209
+22,BSC-LT/salamandra-7b,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,3.826664447784424,3.82790470123291
+23,BSC-LT/salamandra-7b,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,3.909067153930664,3.8240694999694815
+24,BSC-LT/salamandra-7b,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,3.325424671173096,3.5632317066192627
+25,BSC-LT/salamandra-7b,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,4.036509037017822,4.107000350952148
+26,BSC-LT/salamandra-7b,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,3.660164833068848,4.072701454162598
+27,BSC-LT/salamandra-7b,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,4.17515754699707,4.234624862670898
+28,BSC-LT/salamandra-7b,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,4.536149978637695,4.303799152374268
+29,BSC-LT/salamandra-7b,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,2.6804330348968506,2.7557621002197266
+30,BSC-LT/salamandra-7b,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,3.577180862426758,3.45984959602356
+31,BSC-LT/salamandra-7b,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,5.751908302307129,5.727000236511231
+32,BSC-LT/salamandra-7b,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,2.9899344444274902,2.9477314949035645
+33,BSC-LT/salamandra-7b,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,4.595126152038574,4.548052310943604
+34,BSC-LT/salamandra-7b,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,4.616819858551025,4.641561031341553
+35,BSC-LT/salamandra-7b,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,4.598734378814697,4.379410743713379
+36,BSC-LT/salamandra-7b,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,4.580929279327393,4.523931503295898
+37,BSC-LT/salamandra-7b,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,4.611094951629639,4.350964546203613
+38,BSC-LT/salamandra-7b,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",4.436933517456055,4.425504684448242
+39,BSC-LT/salamandra-7b,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",2.716282367706299,2.675787687301636
+40,BSC-LT/salamandra-7b,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",2.50318455696106,2.7087864875793457
+41,BSC-LT/salamandra-7b,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,3.803096055984497,4.239948749542236
+42,BSC-LT/salamandra-7b,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,2.718578577041626,2.91858172416687
+43,BSC-LT/salamandra-7b,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",2.866889715194702,3.158663272857666
+44,BSC-LT/salamandra-7b,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,3.947465658187866,4.087483882904053
+45,BSC-LT/salamandra-7b,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,3.023621320724488,3.2549474239349365
+46,BSC-LT/salamandra-7b,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,4.167168140411377,4.420384883880615
+47,BSC-LT/salamandra-7b,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,3.014110565185547,3.249185562133789
+48,BSC-LT/salamandra-7b,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",3.2669126987457275,3.634500741958618
+49,BSC-LT/salamandra-7b,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,3.186307907104492,3.3795886039733887
+50,BSC-LT/salamandra-7b,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,5.0463738441467285,5.777754783630371
+51,BSC-LT/salamandra-7b,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",3.3915700912475586,3.560762643814087
+52,BSC-LT/salamandra-7b,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,5.771873474121094,6.410722255706787
+53,BSC-LT/salamandra-7b,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,5.18714714050293,5.42874002456665
+54,BSC-LT/salamandra-7b,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",2.485555410385132,2.74180555343628
+55,BSC-LT/salamandra-7b,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,4.130876541137695,4.638823986053467
+56,BSC-LT/salamandra-7b,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,2.409903049468994,2.7059519290924072
+57,BSC-LT/salamandra-7b,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,3.517632484436035,3.829763889312744
+58,BSC-LT/salamandra-7b,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,3.784649610519409,4.13171911239624
+59,BSC-LT/salamandra-7b,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,4.20208215713501,4.523643493652344
+60,BSC-LT/salamandra-7b,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,4.979024887084961,4.84820032119751
+61,BSC-LT/salamandra-7b,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",4.015148639678955,4.005210876464844
+62,BSC-LT/salamandra-7b,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,3.31985855102539,3.6263303756713854
+63,BSC-LT/salamandra-7b,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,3.890136480331421,4.120786666870117
+64,BSC-LT/salamandra-7b,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.4802017211914062,4.492565631866455
+65,BSC-LT/salamandra-7b,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",3.50380802154541,4.606213569641113
+66,BSC-LT/salamandra-7b,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",3.1755294799804688,3.383636236190796
+67,BSC-LT/salamandra-7b,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,2.6730568408966064,3.060673236846924
+68,BSC-LT/salamandra-7b,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",3.366252183914185,3.62591552734375
+69,BSC-LT/salamandra-7b,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,4.184146404266357,4.104252815246582
+70,BSC-LT/salamandra-7b,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,3.3867976665496826,4.044370174407959
+71,BSC-LT/salamandra-7b,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,2.9665842056274414,3.5837879180908203
+72,BSC-LT/salamandra-7b,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,2.656169414520264,3.0596890449523926
+73,BSC-LT/salamandra-7b,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.453397274017334,3.0425682067871094
+74,BSC-LT/salamandra-7b,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,3.5086398124694824,4.165842533111572
+75,BSC-LT/salamandra-7b,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,2.676269769668579,3.506158828735352
+76,BSC-LT/salamandra-7b,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,5.863943576812744,6.434742450714111
+77,BSC-LT/salamandra-7b,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,3.1915178298950195,3.8763928413391113
+78,BSC-LT/salamandra-7b,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,2.9756524562835693,3.5254364013671875
+79,BSC-LT/salamandra-7b,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.33353853225708,2.835517644882202
+0,facebook/xglm-7.5B,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,7.082801342010498,7.28706693649292
+1,facebook/xglm-7.5B,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,4.909728050231934,5.2700676918029785
+2,facebook/xglm-7.5B,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,6.053823947906494,6.549646854400635
+3,facebook/xglm-7.5B,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,6.791333198547363,7.028140068054199
+4,facebook/xglm-7.5B,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,4.9799652099609375,4.68589973449707
+5,facebook/xglm-7.5B,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,5.335739135742188,5.15032958984375
+6,facebook/xglm-7.5B,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,6.622439384460449,6.416215896606445
+7,facebook/xglm-7.5B,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,6.910932540893555,7.242334365844727
+8,facebook/xglm-7.5B,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,6.170594692230225,6.572204113006592
+9,facebook/xglm-7.5B,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,4.312328338623047,3.9922220706939697
+10,facebook/xglm-7.5B,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,6.446850299835205,6.371438980102539
+11,facebook/xglm-7.5B,a_od,He vist el cotxe nou.,He vist al cotxe nou.,8.127447128295898,8.839500427246094
+12,facebook/xglm-7.5B,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,4.729372501373291,4.829885005950928
+13,facebook/xglm-7.5B,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,5.917560577392578,5.922328948974609
+14,facebook/xglm-7.5B,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,5.774430751800537,5.712358951568604
+15,facebook/xglm-7.5B,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,4.750032901763916,4.779645442962647
+16,facebook/xglm-7.5B,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,5.300880432128906,5.312483787536621
+17,facebook/xglm-7.5B,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,4.505906105041504,4.494027137756348
+18,facebook/xglm-7.5B,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,4.77631425857544,4.856203079223633
+19,facebook/xglm-7.5B,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,5.043727397918701,5.332512855529785
+20,facebook/xglm-7.5B,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,6.340843677520752,6.372519493103027
+21,facebook/xglm-7.5B,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,6.031942367553711,6.060284614562988
+22,facebook/xglm-7.5B,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,5.970396995544434,6.024825096130371
+23,facebook/xglm-7.5B,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,5.0878987312316895,4.989977836608887
+24,facebook/xglm-7.5B,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,4.15318775177002,4.269585609436035
+25,facebook/xglm-7.5B,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,4.793889999389648,4.822522640228272
+26,facebook/xglm-7.5B,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,4.761166572570801,4.835669994354248
+27,facebook/xglm-7.5B,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,4.833465099334717,4.875878810882568
+28,facebook/xglm-7.5B,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,5.831910610198975,5.560935497283936
+29,facebook/xglm-7.5B,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,4.049418926239014,4.160990238189697
+30,facebook/xglm-7.5B,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,4.2893147468566895,4.339230537414551
+31,facebook/xglm-7.5B,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,6.0406270027160645,5.992626667022705
+32,facebook/xglm-7.5B,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,4.039786815643311,4.115684986114502
+33,facebook/xglm-7.5B,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,5.444440364837647,5.36406135559082
+34,facebook/xglm-7.5B,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,6.36683988571167,6.268790721893311
+35,facebook/xglm-7.5B,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,4.618303298950195,4.62882661819458
+36,facebook/xglm-7.5B,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,4.504246711730957,4.399041175842285
+37,facebook/xglm-7.5B,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,4.991780757904053,4.900679111480713
+38,facebook/xglm-7.5B,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",5.481859683990479,5.441915035247803
+39,facebook/xglm-7.5B,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",3.2557532787323,3.2192957401275635
+40,facebook/xglm-7.5B,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",4.018494606018066,4.2783522605896
+41,facebook/xglm-7.5B,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,4.623818874359131,4.502820491790772
+42,facebook/xglm-7.5B,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,3.646421432495117,3.755524873733521
+43,facebook/xglm-7.5B,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",4.030299663543701,4.230673789978027
+44,facebook/xglm-7.5B,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,5.569428443908691,5.4713215827941895
+45,facebook/xglm-7.5B,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,4.320605754852295,4.435674667358398
+46,facebook/xglm-7.5B,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,4.07246208190918,4.258462905883789
+47,facebook/xglm-7.5B,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,3.859416484832764,4.02821683883667
+48,facebook/xglm-7.5B,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",5.08100700378418,5.238956928253174
+49,facebook/xglm-7.5B,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,4.041500568389893,4.184160709381104
+50,facebook/xglm-7.5B,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,5.562099456787109,5.915510654449463
+51,facebook/xglm-7.5B,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",4.30814266204834,4.432809352874756
+52,facebook/xglm-7.5B,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,5.778083324432373,6.114969253540039
+53,facebook/xglm-7.5B,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,5.241660118103027,5.548488140106201
+54,facebook/xglm-7.5B,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",3.4507358074188232,3.610577344894409
+55,facebook/xglm-7.5B,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,5.266422748565674,5.65964937210083
+56,facebook/xglm-7.5B,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,4.058797836303711,4.271346569061279
+57,facebook/xglm-7.5B,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,4.901461124420166,5.124367713928223
+58,facebook/xglm-7.5B,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,3.843794345855713,4.1006693840026855
+59,facebook/xglm-7.5B,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,4.815432071685791,4.975424766540527
+60,facebook/xglm-7.5B,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,5.464473247528076,6.585191249847412
+61,facebook/xglm-7.5B,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",4.689230918884277,4.795685768127441
+62,facebook/xglm-7.5B,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,3.996665954589844,4.072000980377197
+63,facebook/xglm-7.5B,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,5.3121867179870605,5.296810626983643
+64,facebook/xglm-7.5B,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,4.8387885093688965,5.250556945800781
+65,facebook/xglm-7.5B,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",4.658458232879639,4.874553680419922
+66,facebook/xglm-7.5B,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",4.31704044342041,4.372514724731445
+67,facebook/xglm-7.5B,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,3.783438682556152,3.916491270065308
+68,facebook/xglm-7.5B,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",4.51761531829834,4.555065155029297
+69,facebook/xglm-7.5B,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,4.7035064697265625,4.951089859008789
+70,facebook/xglm-7.5B,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,3.797918319702149,4.339179515838623
+71,facebook/xglm-7.5B,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,4.345698356628418,5.031801223754883
+72,facebook/xglm-7.5B,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,4.171136856079102,4.546019077301025
+73,facebook/xglm-7.5B,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,3.7279210090637207,4.3073344230651855
+74,facebook/xglm-7.5B,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,3.975388765335083,4.432883739471436
+75,facebook/xglm-7.5B,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,4.4945244789123535,5.124682903289795
+76,facebook/xglm-7.5B,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,5.355229377746582,6.1657538414001465
+77,facebook/xglm-7.5B,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,3.9707539081573486,4.578920841217041
+78,facebook/xglm-7.5B,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,4.536007404327393,5.028698444366455
+79,facebook/xglm-7.5B,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,3.491837739944458,3.935337543487549
+0,catallama/CataLlama-v0.1-Base,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,4.351260662078857,4.616915225982666
+1,catallama/CataLlama-v0.1-Base,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,3.5261802673339844,3.848111391067505
+2,catallama/CataLlama-v0.1-Base,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,3.8784701824188232,4.460289001464844
+3,catallama/CataLlama-v0.1-Base,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,3.4652202129364014,3.753718137741089
+4,catallama/CataLlama-v0.1-Base,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,3.917052745819092,3.585415363311768
+5,catallama/CataLlama-v0.1-Base,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,3.484982252120972,3.300825595855713
+6,catallama/CataLlama-v0.1-Base,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,4.710048675537109,4.625647068023682
+7,catallama/CataLlama-v0.1-Base,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.348692893981934,4.911699771881104
+8,catallama/CataLlama-v0.1-Base,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,3.1847469806671143,3.412259101867676
+9,catallama/CataLlama-v0.1-Base,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,2.916125774383545,2.7139549255371094
+10,catallama/CataLlama-v0.1-Base,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,2.787295341491699,2.9066200256347656
+11,catallama/CataLlama-v0.1-Base,a_od,He vist el cotxe nou.,He vist al cotxe nou.,4.154297828674316,4.415958404541016
+12,catallama/CataLlama-v0.1-Base,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,2.7459490299224854,2.8569839000701904
+13,catallama/CataLlama-v0.1-Base,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,4.244856357574463,4.406185150146484
+14,catallama/CataLlama-v0.1-Base,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,2.979526996612549,3.03719162940979
+15,catallama/CataLlama-v0.1-Base,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,4.165774345397949,3.966904401779175
+16,catallama/CataLlama-v0.1-Base,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,3.164615631103516,3.192533731460572
+17,catallama/CataLlama-v0.1-Base,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,3.726119995117188,3.797445774078369
+18,catallama/CataLlama-v0.1-Base,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,2.743694543838501,2.851926326751709
+19,catallama/CataLlama-v0.1-Base,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,2.831657886505127,2.920385837554932
+20,catallama/CataLlama-v0.1-Base,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,3.160759210586548,3.277384042739868
+21,catallama/CataLlama-v0.1-Base,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,3.531625509262085,3.948068380355835
+22,catallama/CataLlama-v0.1-Base,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,2.934620141983032,2.9796457290649414
+23,catallama/CataLlama-v0.1-Base,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,2.530600547790528,2.4871199131011963
+24,catallama/CataLlama-v0.1-Base,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,2.1905341148376465,2.2736849784851074
+25,catallama/CataLlama-v0.1-Base,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,2.527639627456665,2.544557809829712
+26,catallama/CataLlama-v0.1-Base,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,2.737091302871704,2.9244067668914795
+27,catallama/CataLlama-v0.1-Base,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,3.7879674434661865,3.787297248840332
+28,catallama/CataLlama-v0.1-Base,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,3.447895050048828,3.241837739944458
+29,catallama/CataLlama-v0.1-Base,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,2.5684518814086914,2.6681127548217773
+30,catallama/CataLlama-v0.1-Base,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,2.391932964324951,2.5082719326019287
+31,catallama/CataLlama-v0.1-Base,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,3.553281784057617,3.552340269088745
+32,catallama/CataLlama-v0.1-Base,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,2.6970348358154297,2.7322704792022705
+33,catallama/CataLlama-v0.1-Base,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,3.18852972984314,3.05702805519104
+34,catallama/CataLlama-v0.1-Base,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,3.292490243911743,3.362788915634156
+35,catallama/CataLlama-v0.1-Base,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,2.9398560523986816,2.8945322036743164
+36,catallama/CataLlama-v0.1-Base,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,2.541548728942871,2.473748683929444
+37,catallama/CataLlama-v0.1-Base,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,3.052052974700928,3.030258178710937
+38,catallama/CataLlama-v0.1-Base,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",3.5072381496429443,3.5130703449249268
+39,catallama/CataLlama-v0.1-Base,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",2.2257721424102783,2.2544071674346924
+40,catallama/CataLlama-v0.1-Base,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",1.8502498865127563,1.831517100334168
+41,catallama/CataLlama-v0.1-Base,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,2.17002534866333,2.4849116802215576
+42,catallama/CataLlama-v0.1-Base,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,1.8966169357299805,1.9937337636947632
+43,catallama/CataLlama-v0.1-Base,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",1.85696280002594,1.945470929145813
+44,catallama/CataLlama-v0.1-Base,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,3.5080442428588867,3.565119743347168
+45,catallama/CataLlama-v0.1-Base,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,2.318671703338623,2.4179937839508057
+46,catallama/CataLlama-v0.1-Base,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,2.24515962600708,2.337300062179565
+47,catallama/CataLlama-v0.1-Base,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,2.269015073776245,2.248528480529785
+48,catallama/CataLlama-v0.1-Base,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",2.235663890838623,2.039119243621826
+49,catallama/CataLlama-v0.1-Base,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,2.0878689289093018,2.338235378265381
+50,catallama/CataLlama-v0.1-Base,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,3.2822654247283936,3.538891077041626
+51,catallama/CataLlama-v0.1-Base,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",2.569753646850586,2.656290054321289
+52,catallama/CataLlama-v0.1-Base,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,3.1304168701171875,3.481268405914306
+53,catallama/CataLlama-v0.1-Base,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,3.269857168197632,3.437998056411743
+54,catallama/CataLlama-v0.1-Base,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",1.9973715543746948,2.13287615776062
+55,catallama/CataLlama-v0.1-Base,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,2.7939112186431885,3.261483907699585
+56,catallama/CataLlama-v0.1-Base,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,2.2460079193115234,2.3716604709625244
+57,catallama/CataLlama-v0.1-Base,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,2.129775285720825,2.343050003051758
+58,catallama/CataLlama-v0.1-Base,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,2.337139368057251,2.591427564620972
+59,catallama/CataLlama-v0.1-Base,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,2.710310935974121,2.7576849460601807
+60,catallama/CataLlama-v0.1-Base,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,3.168853998184204,3.8944380283355713
+61,catallama/CataLlama-v0.1-Base,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",2.7209768295288086,2.848328828811645
+62,catallama/CataLlama-v0.1-Base,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,2.3725898265838623,2.587011814117432
+63,catallama/CataLlama-v0.1-Base,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,2.7413575649261475,2.9949638843536377
+64,catallama/CataLlama-v0.1-Base,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.235352039337158,3.813239574432373
+65,catallama/CataLlama-v0.1-Base,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",2.653520107269287,3.2687699794769287
+66,catallama/CataLlama-v0.1-Base,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",2.513781309127808,2.7649879455566406
+67,catallama/CataLlama-v0.1-Base,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,2.4570887088775635,2.697075843811035
+68,catallama/CataLlama-v0.1-Base,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",2.4140470027923584,2.616513252258301
+69,catallama/CataLlama-v0.1-Base,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,2.5188395977020264,2.66577410697937
+70,catallama/CataLlama-v0.1-Base,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,2.1903464794158936,2.7813267707824707
+71,catallama/CataLlama-v0.1-Base,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,2.701483726501465,3.20255184173584
+72,catallama/CataLlama-v0.1-Base,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,2.073831558227539,2.400242567062378
+73,catallama/CataLlama-v0.1-Base,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.5238726139068604,2.960198879241944
+74,catallama/CataLlama-v0.1-Base,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,2.544140577316284,3.139883518218994
+75,catallama/CataLlama-v0.1-Base,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,2.468268871307373,3.019331932067871
+76,catallama/CataLlama-v0.1-Base,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,3.1550133228302,4.102403163909912
+77,catallama/CataLlama-v0.1-Base,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,3.331145763397217,4.132683753967285
+78,catallama/CataLlama-v0.1-Base,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,2.71093487739563,3.1248698234558105
+79,catallama/CataLlama-v0.1-Base,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.115674018859864,2.6790807247161865
+0,catallama/CataLlama-v0.2-Base,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,4.464852809906006,4.915328979492188
+1,catallama/CataLlama-v0.2-Base,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,2.9436557292938232,3.130313873291016
+2,catallama/CataLlama-v0.2-Base,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,4.236189842224121,4.807039260864258
+3,catallama/CataLlama-v0.2-Base,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,3.615029573440552,3.9430980682373047
+4,catallama/CataLlama-v0.2-Base,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,3.934356451034546,3.5141587257385254
+5,catallama/CataLlama-v0.2-Base,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,3.7024781703948975,3.653989553451538
+6,catallama/CataLlama-v0.2-Base,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,4.804818153381348,4.461991310119629
+7,catallama/CataLlama-v0.2-Base,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.503549575805664,5.269566535949707
+8,catallama/CataLlama-v0.2-Base,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,3.4023220539093018,3.721934318542481
+9,catallama/CataLlama-v0.2-Base,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,3.3605706691741943,3.015780448913574
+10,catallama/CataLlama-v0.2-Base,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,3.259514808654785,3.345325231552124
+11,catallama/CataLlama-v0.2-Base,a_od,He vist el cotxe nou.,He vist al cotxe nou.,4.4315619468688965,4.810494422912598
+12,catallama/CataLlama-v0.2-Base,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,2.240301609039306,2.3265864849090576
+13,catallama/CataLlama-v0.2-Base,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,3.870617151260376,4.016083240509033
+14,catallama/CataLlama-v0.2-Base,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,3.1470797061920166,3.1853466033935547
+15,catallama/CataLlama-v0.2-Base,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,3.8279504776000977,3.7592556476593018
+16,catallama/CataLlama-v0.2-Base,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,3.4753453731536865,3.5812323093414307
+17,catallama/CataLlama-v0.2-Base,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,3.442724227905273,3.511042356491089
+18,catallama/CataLlama-v0.2-Base,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,2.9642066955566406,3.063310146331787
+19,catallama/CataLlama-v0.2-Base,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,3.266439914703369,3.389942407608032
+20,catallama/CataLlama-v0.2-Base,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,3.5365352630615234,3.6326847076416016
+21,catallama/CataLlama-v0.2-Base,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,3.611332416534424,3.771398782730103
+22,catallama/CataLlama-v0.2-Base,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,3.3145155906677246,3.366934299468994
+23,catallama/CataLlama-v0.2-Base,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,2.7700119018554688,2.685225486755371
+24,catallama/CataLlama-v0.2-Base,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,2.264415979385376,2.3936095237731934
+25,catallama/CataLlama-v0.2-Base,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,3.006438732147217,2.993114233016968
+26,catallama/CataLlama-v0.2-Base,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,3.5556981563568115,3.93588924407959
+27,catallama/CataLlama-v0.2-Base,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,3.084599733352661,3.0785391330718994
+28,catallama/CataLlama-v0.2-Base,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,3.801210403442383,3.6216251850128174
+29,catallama/CataLlama-v0.2-Base,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,2.330127716064453,2.4102976322174072
+30,catallama/CataLlama-v0.2-Base,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,2.7322559356689453,2.7185277938842773
+31,catallama/CataLlama-v0.2-Base,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,3.845820665359497,3.843700408935547
+32,catallama/CataLlama-v0.2-Base,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,2.913782119750977,2.9254841804504395
+33,catallama/CataLlama-v0.2-Base,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,3.610121726989746,3.563343048095703
+34,catallama/CataLlama-v0.2-Base,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,3.8239357471466064,3.800047397613525
+35,catallama/CataLlama-v0.2-Base,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,3.285147428512573,3.1998279094696045
+36,catallama/CataLlama-v0.2-Base,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,2.930000066757202,2.786151647567749
+37,catallama/CataLlama-v0.2-Base,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,3.55676007270813,3.393439769744873
+38,catallama/CataLlama-v0.2-Base,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",3.919787168502808,4.041201114654541
+39,catallama/CataLlama-v0.2-Base,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",2.5221610069274902,2.5065085887908936
+40,catallama/CataLlama-v0.2-Base,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",2.0453908443450928,2.002481937408448
+41,catallama/CataLlama-v0.2-Base,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,2.442763328552246,2.766543388366699
+42,catallama/CataLlama-v0.2-Base,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,2.054154872894287,2.159151077270508
+43,catallama/CataLlama-v0.2-Base,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",2.130509376525879,2.138805866241455
+44,catallama/CataLlama-v0.2-Base,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,4.088127136230469,4.084659099578857
+45,catallama/CataLlama-v0.2-Base,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,2.491687297821045,2.5622386932373047
+46,catallama/CataLlama-v0.2-Base,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,2.340020179748535,2.439539670944214
+47,catallama/CataLlama-v0.2-Base,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,2.5350465774536133,2.4973464012146
+48,catallama/CataLlama-v0.2-Base,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",2.3988518714904785,2.410034656524658
+49,catallama/CataLlama-v0.2-Base,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,2.231980562210083,2.4651198387146
+50,catallama/CataLlama-v0.2-Base,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,3.580315589904785,4.212753772735596
+51,catallama/CataLlama-v0.2-Base,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",2.9991455078125,3.2049622535705566
+52,catallama/CataLlama-v0.2-Base,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,3.9691689014434814,4.400474548339844
+53,catallama/CataLlama-v0.2-Base,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,3.4912269115448,3.696026563644409
+54,catallama/CataLlama-v0.2-Base,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",2.0892810821533203,2.330204725265503
+55,catallama/CataLlama-v0.2-Base,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,2.869929313659668,3.549049139022827
+56,catallama/CataLlama-v0.2-Base,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,2.424562692642212,2.625880002975464
+57,catallama/CataLlama-v0.2-Base,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,2.1863818168640137,2.644270420074463
+58,catallama/CataLlama-v0.2-Base,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,2.5385966300964355,2.7559614181518555
+59,catallama/CataLlama-v0.2-Base,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,2.948297500610352,3.095700025558472
+60,catallama/CataLlama-v0.2-Base,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,3.750330924987793,4.7441020011901855
+61,catallama/CataLlama-v0.2-Base,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",3.8030810356140137,3.778324842453003
+62,catallama/CataLlama-v0.2-Base,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,2.6538243293762207,3.0028631687164307
+63,catallama/CataLlama-v0.2-Base,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,3.0361075401306152,3.1287474632263184
+64,catallama/CataLlama-v0.2-Base,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.635620594024658,4.231555461883545
+65,catallama/CataLlama-v0.2-Base,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",3.3718247413635254,4.109232902526856
+66,catallama/CataLlama-v0.2-Base,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",3.424380302429199,3.5706074237823486
+67,catallama/CataLlama-v0.2-Base,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,2.8343801498413086,3.1610922813415527
+68,catallama/CataLlama-v0.2-Base,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",2.8845388889312744,3.2099173069000244
+69,catallama/CataLlama-v0.2-Base,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,3.619166851043701,3.6563897132873535
+70,catallama/CataLlama-v0.2-Base,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,2.392796754837036,2.990215301513672
+71,catallama/CataLlama-v0.2-Base,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,2.9524497985839844,3.51775336265564
+72,catallama/CataLlama-v0.2-Base,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,2.1753644943237305,2.544894456863404
+73,catallama/CataLlama-v0.2-Base,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.5184006690979004,3.0484206676483154
+74,catallama/CataLlama-v0.2-Base,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,2.6807546615600586,3.2304961681365967
+75,catallama/CataLlama-v0.2-Base,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,2.513676166534424,3.17101526260376
+76,catallama/CataLlama-v0.2-Base,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,3.100126028060913,3.958217144012451
+77,catallama/CataLlama-v0.2-Base,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,3.606713533401489,4.488383293151856
+78,catallama/CataLlama-v0.2-Base,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,2.8328397274017334,3.2960963249206543
+79,catallama/CataLlama-v0.2-Base,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.2978954315185547,3.000840187072754
+0,gplsi/Aitana-6.3B,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,4.689954280853272,5.411488056182861
+1,gplsi/Aitana-6.3B,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,3.936821699142456,4.209390640258789
+2,gplsi/Aitana-6.3B,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,3.690114736557007,4.12034797668457
+3,gplsi/Aitana-6.3B,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,3.632468223571777,4.499839782714844
+4,gplsi/Aitana-6.3B,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,4.634313583374023,4.450082778930664
+5,gplsi/Aitana-6.3B,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,3.3923826217651367,3.699130296707153
+6,gplsi/Aitana-6.3B,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,6.323529243469238,6.267850399017334
+7,gplsi/Aitana-6.3B,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.31013822555542,4.737863063812256
+8,gplsi/Aitana-6.3B,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,3.480429410934448,4.342119693756104
+9,gplsi/Aitana-6.3B,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,3.1160576343536377,2.7039718627929688
+10,gplsi/Aitana-6.3B,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,4.576376438140869,5.166626930236816
+11,gplsi/Aitana-6.3B,a_od,He vist el cotxe nou.,He vist al cotxe nou.,4.429296970367432,5.689987659454346
+12,gplsi/Aitana-6.3B,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,5.23211669921875,5.385546684265137
+13,gplsi/Aitana-6.3B,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,6.435113430023193,6.497176647186279
+14,gplsi/Aitana-6.3B,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,4.014948844909668,4.1061553955078125
+15,gplsi/Aitana-6.3B,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,3.81095814704895,3.8179771900177
+16,gplsi/Aitana-6.3B,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,3.055061101913452,3.2463765144348145
+17,gplsi/Aitana-6.3B,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,4.254268646240234,4.318032741546631
+18,gplsi/Aitana-6.3B,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,3.8469161987304688,4.19863224029541
+19,gplsi/Aitana-6.3B,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,3.33479380607605,3.6607584953308105
+20,gplsi/Aitana-6.3B,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,4.75297212600708,4.645487785339356
+21,gplsi/Aitana-6.3B,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,4.022262096405029,4.004577159881592
+22,gplsi/Aitana-6.3B,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,4.66282320022583,4.607678413391113
+23,gplsi/Aitana-6.3B,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,3.519758701324463,3.301610231399536
+24,gplsi/Aitana-6.3B,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,4.146369934082031,4.353864669799805
+25,gplsi/Aitana-6.3B,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,3.892058372497559,3.996878147125244
+26,gplsi/Aitana-6.3B,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,4.395228862762451,4.5050458908081055
+27,gplsi/Aitana-6.3B,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,7.051713943481445,7.0613203048706055
+28,gplsi/Aitana-6.3B,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,4.014811038970947,3.730169773101807
+29,gplsi/Aitana-6.3B,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,2.556159019470215,2.644988536834717
+30,gplsi/Aitana-6.3B,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,2.6379482746124268,2.786867618560791
+31,gplsi/Aitana-6.3B,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,5.8096923828125,5.941479206085205
+32,gplsi/Aitana-6.3B,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,3.1993629932403564,3.227729320526123
+33,gplsi/Aitana-6.3B,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,3.939229011535645,4.09321403503418
+34,gplsi/Aitana-6.3B,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,3.910721063613892,3.944967746734619
+35,gplsi/Aitana-6.3B,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,5.473834991455078,5.479391574859619
+36,gplsi/Aitana-6.3B,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,5.066770553588867,5.184198379516602
+37,gplsi/Aitana-6.3B,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,4.344319820404053,4.32612943649292
+38,gplsi/Aitana-6.3B,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",4.231175899505615,4.020721912384033
+39,gplsi/Aitana-6.3B,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",2.3076558113098145,2.209712743759156
+40,gplsi/Aitana-6.3B,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",4.066435813903809,3.8375473022460938
+41,gplsi/Aitana-6.3B,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,3.7540228366851807,3.89626669883728
+42,gplsi/Aitana-6.3B,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,2.84602689743042,3.099436044692993
+43,gplsi/Aitana-6.3B,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",3.140472412109375,3.395319938659668
+44,gplsi/Aitana-6.3B,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,3.7173218727111816,3.975600481033325
+45,gplsi/Aitana-6.3B,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,3.836078405380249,4.137793064117432
+46,gplsi/Aitana-6.3B,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,3.494908809661865,3.947979688644409
+47,gplsi/Aitana-6.3B,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,2.7035698890686035,3.035707950592041
+48,gplsi/Aitana-6.3B,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",4.558271884918213,3.998726129531861
+49,gplsi/Aitana-6.3B,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,3.5201668739318848,3.856555700302124
+50,gplsi/Aitana-6.3B,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,3.523900032043457,4.306663036346436
+51,gplsi/Aitana-6.3B,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",3.497950315475464,3.838745832443237
+52,gplsi/Aitana-6.3B,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,3.973202228546143,4.190629482269287
+53,gplsi/Aitana-6.3B,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,4.402401447296143,4.678151607513428
+54,gplsi/Aitana-6.3B,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",2.320845365524292,2.459193706512451
+55,gplsi/Aitana-6.3B,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,4.070168495178223,4.324550628662109
+56,gplsi/Aitana-6.3B,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,2.314481019973755,2.673024177551269
+57,gplsi/Aitana-6.3B,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,3.090346574783325,3.486790418624878
+58,gplsi/Aitana-6.3B,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,3.5841689109802246,3.864636182785034
+59,gplsi/Aitana-6.3B,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,4.04198169708252,4.375356674194336
+60,gplsi/Aitana-6.3B,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,3.2403573989868164,3.690028667449951
+61,gplsi/Aitana-6.3B,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",3.04525089263916,3.0987915992736816
+62,gplsi/Aitana-6.3B,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,2.481456995010376,2.4892830848693848
+63,gplsi/Aitana-6.3B,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,2.3707938194274902,2.846783399581909
+64,gplsi/Aitana-6.3B,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.051915407180786,3.6031126976013184
+65,gplsi/Aitana-6.3B,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",3.5174365043640137,3.626783847808838
+66,gplsi/Aitana-6.3B,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",3.223763227462769,2.910428047180176
+67,gplsi/Aitana-6.3B,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,3.961268663406372,4.033742904663086
+68,gplsi/Aitana-6.3B,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",2.585629463195801,2.557247400283813
+69,gplsi/Aitana-6.3B,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,2.3708345890045166,2.6602141857147217
+70,gplsi/Aitana-6.3B,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,2.8647470474243164,3.963041305541992
+71,gplsi/Aitana-6.3B,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,3.5366129875183105,4.185428619384766
+72,gplsi/Aitana-6.3B,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,3.3780517578125,3.857563972473145
+73,gplsi/Aitana-6.3B,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.4620180130004883,3.285495519638061
+74,gplsi/Aitana-6.3B,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,4.528043270111084,5.731353282928467
+75,gplsi/Aitana-6.3B,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,4.055066108703613,4.914687633514404
+76,gplsi/Aitana-6.3B,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,4.571204662322998,6.048804759979248
+77,gplsi/Aitana-6.3B,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,2.7991397380828857,3.8862669467926025
+78,gplsi/Aitana-6.3B,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,3.1414129734039307,3.812801599502564
+79,gplsi/Aitana-6.3B,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.8451077938079834,3.404073476791382
+0,BSC-LT/ALIA-40b,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,5.210411548614502,5.331749439239502
+1,BSC-LT/ALIA-40b,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,3.7669522762298575,4.031494617462158
+2,BSC-LT/ALIA-40b,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,3.9984638690948486,4.472528457641602
+3,BSC-LT/ALIA-40b,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,4.246039390563965,4.621901035308838
+4,BSC-LT/ALIA-40b,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,3.5658462047576904,3.3285958766937256
+5,BSC-LT/ALIA-40b,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,3.9781370162963863,3.8215584754943848
+6,BSC-LT/ALIA-40b,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,5.711938381195068,5.778946399688721
+7,BSC-LT/ALIA-40b,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.252276420593262,4.949997901916504
+8,BSC-LT/ALIA-40b,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,3.896871566772461,4.188286781311035
+9,BSC-LT/ALIA-40b,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,2.8031976222991943,2.567676305770874
+10,BSC-LT/ALIA-40b,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,5.319450855255127,6.1360039710998535
+11,BSC-LT/ALIA-40b,a_od,He vist el cotxe nou.,He vist al cotxe nou.,5.334611415863037,6.019401550292969
+12,BSC-LT/ALIA-40b,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,3.3922793865203857,3.470003843307495
+13,BSC-LT/ALIA-40b,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,4.096635818481445,4.1786699295043945
+14,BSC-LT/ALIA-40b,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,3.942097187042236,4.111071586608887
+15,BSC-LT/ALIA-40b,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,4.150560855865479,4.022505760192871
+16,BSC-LT/ALIA-40b,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,3.904237508773804,3.6044514179229736
+17,BSC-LT/ALIA-40b,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,3.398678541183472,3.414531946182251
+18,BSC-LT/ALIA-40b,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,3.87115740776062,4.080259799957275
+19,BSC-LT/ALIA-40b,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,3.4823787212371826,3.637150526046753
+20,BSC-LT/ALIA-40b,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,4.149075508117676,4.287053108215332
+21,BSC-LT/ALIA-40b,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,3.955586671829224,3.7945404052734375
+22,BSC-LT/ALIA-40b,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,3.506882667541504,3.5412936210632324
+23,BSC-LT/ALIA-40b,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,3.4192044734954834,3.3438720703125
+24,BSC-LT/ALIA-40b,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,3.1369287967681885,3.2659857273101807
+25,BSC-LT/ALIA-40b,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,3.849313497543335,3.9497575759887695
+26,BSC-LT/ALIA-40b,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,2.6496832370758057,2.862983226776123
+27,BSC-LT/ALIA-40b,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,4.177890777587891,4.222014904022217
+28,BSC-LT/ALIA-40b,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,4.4965362548828125,4.177103996276856
+29,BSC-LT/ALIA-40b,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,3.057044267654419,3.149747610092163
+30,BSC-LT/ALIA-40b,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,3.1601486206054688,3.209722757339477
+31,BSC-LT/ALIA-40b,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,5.480550289154053,5.5470170974731445
+32,BSC-LT/ALIA-40b,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,2.6578729152679443,2.692387580871582
+33,BSC-LT/ALIA-40b,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,3.977838039398194,4.028466701507568
+34,BSC-LT/ALIA-40b,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,4.213780403137207,4.291492938995361
+35,BSC-LT/ALIA-40b,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,4.350945472717285,4.3929829597473145
+36,BSC-LT/ALIA-40b,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,4.068603515625,4.043628215789795
+37,BSC-LT/ALIA-40b,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,4.010829925537109,4.06617546081543
+38,BSC-LT/ALIA-40b,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",4.027326583862305,4.106434345245361
+39,BSC-LT/ALIA-40b,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",2.36454701423645,2.3298847675323486
+40,BSC-LT/ALIA-40b,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",2.1379170417785645,2.3589186668396
+41,BSC-LT/ALIA-40b,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,3.2906253337860107,3.5165469646453857
+42,BSC-LT/ALIA-40b,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,2.1948251724243164,2.3286325931549072
+43,BSC-LT/ALIA-40b,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",2.4339938163757324,2.813425064086914
+44,BSC-LT/ALIA-40b,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,3.5038788318634038,3.8345165252685542
+45,BSC-LT/ALIA-40b,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,2.9473609924316406,3.035947561264038
+46,BSC-LT/ALIA-40b,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,2.951197624206543,3.1639320850372314
+47,BSC-LT/ALIA-40b,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,2.728189706802368,2.8642866611480717
+48,BSC-LT/ALIA-40b,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",3.0458457469940186,3.310272216796875
+49,BSC-LT/ALIA-40b,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,2.5760974884033203,2.7223117351531982
+50,BSC-LT/ALIA-40b,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,3.9539833068847656,4.713781356811523
+51,BSC-LT/ALIA-40b,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",2.661428213119507,2.918495178222656
+52,BSC-LT/ALIA-40b,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,4.070348739624023,4.5506978034973145
+53,BSC-LT/ALIA-40b,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,4.132547855377197,4.493490695953369
+54,BSC-LT/ALIA-40b,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",2.033247947692871,2.2322332859039307
+55,BSC-LT/ALIA-40b,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,3.212867021560669,3.601769208908081
+56,BSC-LT/ALIA-40b,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,2.5318591594696045,3.022130489349365
+57,BSC-LT/ALIA-40b,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,3.2991373538970947,3.613680124282837
+58,BSC-LT/ALIA-40b,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,3.5359318256378174,3.738469362258911
+59,BSC-LT/ALIA-40b,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,3.5535032749176025,3.7813236713409424
+60,BSC-LT/ALIA-40b,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,3.348150491714477,4.036113262176514
+61,BSC-LT/ALIA-40b,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",2.8971447944641118,2.7986950874328613
+62,BSC-LT/ALIA-40b,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,2.658897399902344,2.761927366256714
+63,BSC-LT/ALIA-40b,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,2.9760642051696777,3.1510162353515625
+64,BSC-LT/ALIA-40b,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.304641008377075,3.886731147766113
+65,BSC-LT/ALIA-40b,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",2.662937879562378,3.199846744537353
+66,BSC-LT/ALIA-40b,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",3.308537483215332,3.4026577472686768
+67,BSC-LT/ALIA-40b,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,2.495695114135742,2.5602505207061768
+68,BSC-LT/ALIA-40b,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",3.006189584732056,3.090820074081421
+69,BSC-LT/ALIA-40b,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,2.876847505569458,2.7517240047454834
+70,BSC-LT/ALIA-40b,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,2.656165599822998,3.3764491081237797
+71,BSC-LT/ALIA-40b,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,2.721053123474121,3.323336124420166
+72,BSC-LT/ALIA-40b,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,2.6010279655456543,3.174387693405152
+73,BSC-LT/ALIA-40b,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.295673131942749,2.9065608978271484
+74,BSC-LT/ALIA-40b,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,3.0690183639526367,3.992566347122192
+75,BSC-LT/ALIA-40b,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,2.68765640258789,3.390192031860352
+76,BSC-LT/ALIA-40b,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,3.726852178573608,4.335570812225342
+77,BSC-LT/ALIA-40b,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,2.8335063457489014,3.5394093990325928
+78,BSC-LT/ALIA-40b,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,2.790611267089844,3.311622142791748
+79,BSC-LT/ALIA-40b,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.323594570159912,2.871878147125244
+0,bigscience/bloom-7b1,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,5.158289432525635,5.464947700500488
+1,bigscience/bloom-7b1,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,3.8431556224823,4.260617733001709
+2,bigscience/bloom-7b1,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,4.181052684783936,4.725078582763672
+3,bigscience/bloom-7b1,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,4.803106784820557,5.190392971038818
+4,bigscience/bloom-7b1,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,3.9179840087890634,3.5007259845733643
+5,bigscience/bloom-7b1,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,4.884027481079102,4.477001190185547
+6,bigscience/bloom-7b1,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,6.186033725738525,6.125773906707764
+7,bigscience/bloom-7b1,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,4.33066987991333,5.3950934410095215
+8,bigscience/bloom-7b1,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,4.020833969116211,4.492488861083984
+9,bigscience/bloom-7b1,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,4.018652439117432,3.584070444107056
+10,bigscience/bloom-7b1,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,4.22650957107544,4.329828262329102
+11,bigscience/bloom-7b1,a_od,He vist el cotxe nou.,He vist al cotxe nou.,5.949980735778809,6.552631378173828
+12,bigscience/bloom-7b1,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,3.1582372188568115,3.228447675704956
+13,bigscience/bloom-7b1,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,4.753031730651856,4.8994903564453125
+14,bigscience/bloom-7b1,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,4.631134033203125,4.539718151092529
+15,bigscience/bloom-7b1,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,4.596423149108887,4.497581005096436
+16,bigscience/bloom-7b1,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,3.842276096343994,4.012938499450684
+17,bigscience/bloom-7b1,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,4.353743553161621,4.396590709686279
+18,bigscience/bloom-7b1,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,3.839573383331299,4.1103596687316895
+19,bigscience/bloom-7b1,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,4.465255737304688,4.754611968994141
+20,bigscience/bloom-7b1,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,4.334052085876465,4.427119731903076
+21,bigscience/bloom-7b1,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,3.96844482421875,4.08725118637085
+22,bigscience/bloom-7b1,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,4.1466875076293945,4.154184818267822
+23,bigscience/bloom-7b1,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,3.186323881149292,3.201669454574585
+24,bigscience/bloom-7b1,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,3.291207790374756,3.4650473594665527
+25,bigscience/bloom-7b1,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,3.078887701034546,3.2494876384735107
+26,bigscience/bloom-7b1,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,4.394975662231445,4.4569010734558105
+27,bigscience/bloom-7b1,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,4.935823440551758,4.824849605560303
+28,bigscience/bloom-7b1,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,4.207963466644287,3.804967403411865
+29,bigscience/bloom-7b1,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,2.9357705116271973,2.9784581661224365
+30,bigscience/bloom-7b1,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,3.2629635334014893,3.3159494400024414
+31,bigscience/bloom-7b1,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,6.227412700653076,6.257160186767578
+32,bigscience/bloom-7b1,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,3.662597417831421,3.7203967571258554
+33,bigscience/bloom-7b1,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,5.612683773040772,5.649296283721924
+34,bigscience/bloom-7b1,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,4.034987449645996,4.029565334320068
+35,bigscience/bloom-7b1,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,4.387940883636475,4.261871337890625
+36,bigscience/bloom-7b1,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,4.128909587860107,4.043893814086914
+37,bigscience/bloom-7b1,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,4.3566436767578125,4.207029342651367
+38,bigscience/bloom-7b1,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",4.338987350463867,4.514603137969971
+39,bigscience/bloom-7b1,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",3.3380022048950195,3.3444812297821045
+40,bigscience/bloom-7b1,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",2.385810375213623,2.7904045581817627
+41,bigscience/bloom-7b1,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,3.6873273849487305,3.8370590209960938
+42,bigscience/bloom-7b1,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,2.634762048721313,2.773597240447998
+43,bigscience/bloom-7b1,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",2.4646785259246826,2.849733352661133
+44,bigscience/bloom-7b1,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,3.852599620819092,4.012220859527588
+45,bigscience/bloom-7b1,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,3.065587520599365,3.2406258583068848
+46,bigscience/bloom-7b1,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,3.7683918476104736,4.138651847839356
+47,bigscience/bloom-7b1,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,3.222054004669189,3.423011779785156
+48,bigscience/bloom-7b1,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",3.082858085632324,3.529895544052124
+49,bigscience/bloom-7b1,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,2.9180054664611816,3.103847026824951
+50,bigscience/bloom-7b1,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,5.24883508682251,4.558642864227295
+51,bigscience/bloom-7b1,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",3.244079113006592,3.210618257522583
+52,bigscience/bloom-7b1,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,5.284061908721924,5.149924278259277
+53,bigscience/bloom-7b1,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,6.162887096405029,6.0601487159729
+54,bigscience/bloom-7b1,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",2.751291990280152,2.906453847885132
+55,bigscience/bloom-7b1,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,3.52251410484314,3.853270053863525
+56,bigscience/bloom-7b1,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,3.251782178878784,3.6864185333251953
+57,bigscience/bloom-7b1,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,2.8193042278289795,3.153411626815796
+58,bigscience/bloom-7b1,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,3.5978517532348637,4.01045036315918
+59,bigscience/bloom-7b1,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,4.072150707244873,4.015784740447998
+60,bigscience/bloom-7b1,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,3.6744422912597656,4.233320236206055
+61,bigscience/bloom-7b1,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",3.380295991897583,3.82580304145813
+62,bigscience/bloom-7b1,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,3.573542356491089,3.69439148902893
+63,bigscience/bloom-7b1,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,3.280142545700073,3.697067260742188
+64,bigscience/bloom-7b1,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,3.083677053451538,3.562591552734375
+65,bigscience/bloom-7b1,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",3.094773292541504,3.907061100006104
+66,bigscience/bloom-7b1,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",2.3114633560180664,2.9273550510406494
+67,bigscience/bloom-7b1,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,2.9829020500183105,2.997652053833008
+68,bigscience/bloom-7b1,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",3.2533602714538574,3.548638105392456
+69,bigscience/bloom-7b1,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,3.367937564849853,4.039974212646484
+70,bigscience/bloom-7b1,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,3.0527679920196533,4.0772013664245605
+71,bigscience/bloom-7b1,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,2.4275827407836914,3.355440378189087
+72,bigscience/bloom-7b1,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,2.593103647232056,2.8979623317718506
+73,bigscience/bloom-7b1,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,2.7111475467681885,3.3310866355896
+74,bigscience/bloom-7b1,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,3.2403652667999268,3.926741361618042
+75,bigscience/bloom-7b1,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,2.1683778762817383,2.8716115951538086
+76,bigscience/bloom-7b1,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,4.737874031066895,5.61433744430542
+77,bigscience/bloom-7b1,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,3.672520637512207,4.4254326820373535
+78,bigscience/bloom-7b1,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,3.9373064041137695,4.640682697296143
+79,bigscience/bloom-7b1,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,2.60050368309021,3.200135469436645
+0,BSC-LT/RoBERTa-ca,caiguda_prep,Em refereixo al que va cantar.,Em refereixo a que va cantar.,17.646081905812025,22.499394059181213
+1,BSC-LT/RoBERTa-ca,caiguda_prep,Parlo del que va sortir l’altre dia al diari,Parlo de que va sortir l’altre dia al diari,16.224641568376683,25.66851132689044
+2,BSC-LT/RoBERTa-ca,caiguda_prep,Depèn del que decideixin els experts.,Depèn de que decideixin els experts.,11.337649494409561,21.501474011689425
+3,BSC-LT/RoBERTa-ca,caiguda_prep,No es recorda del que li vaig explicar.,No es recorda de que li vaig explicar.,11.482127176597714,19.295424576848745
+4,BSC-LT/RoBERTa-ca,caiguda_prep,No m’havia adonat del que estava equivocat.,No m’havia adonat de que estava equivocat.,18.908039897680283,11.805223267525434
+5,BSC-LT/RoBERTa-ca,caiguda_prep,Em refereixo al que va fer una nova pel·lícula.,Em refereixo a que va fer una nova pel·lícula.,19.075769975286676,16.924870014132466
+6,BSC-LT/RoBERTa-ca,caiguda_prep,Parlo del que moure la caixa de lloc. ,Parlo de que moure la caixa de lloc. ,65.3929796218872,64.0057210624218
+7,BSC-LT/RoBERTa-ca,caiguda_prep,Depèn del que vulgin fer.,Depèn de que vulgin fer.,12.050454061012715,23.151570111513138
+8,BSC-LT/RoBERTa-ca,caiguda_prep,No es recorda del que va veure aquell dia.,No es recorda de que va veure aquell dia.,11.339811344631016,20.26591820269823
+9,BSC-LT/RoBERTa-ca,caiguda_prep,No m'havia adonat del que estava mal col·locat.,No m'havia adonat de que estava mal col·locat.,10.685829595662653,7.79526363563491
+10,BSC-LT/RoBERTa-ca,a_od,Això afecta el trànsit aeri.,Això afecta al trànsit aeri.,8.374648958444595,8.42106357216835
+11,BSC-LT/RoBERTa-ca,a_od,He vist el cotxe nou.,He vist al cotxe nou.,14.837699055671692,26.828802347183228
+12,BSC-LT/RoBERTa-ca,a_od,L’entrenador felicitarà els jugadors després del partit.,L’entrenador felicitarà als jugadors després del partit.,6.975698561582249,7.699413286522031
+13,BSC-LT/RoBERTa-ca,a_od,L’empresa vol formar els seus treballadors.,L’empresa vol formar als seus treballadors.,9.789823205210268,10.881536623695865
+14,BSC-LT/RoBERTa-ca,a_od,Estic esperant el professor per resoldre un dubte.,Estic esperant al professor per resoldre un dubte.,19.134877981618047,18.070937525480986
+15,BSC-LT/RoBERTa-ca,a_od,Han acomiadat el empleats més antics de l’empresa.,Han acomiadat al empleats més antics de l’empresa.,19.06561441149097,18.04180348367663
+16,BSC-LT/RoBERTa-ca,a_od,Sempre ajuda els seus companys quan ho necessiten.,Sempre ajuda als seus companys quan ho necessiten.,15.347583770751953,14.197473675012589
+17,BSC-LT/RoBERTa-ca,a_od,El professor ha avisat els alumnes sobre el canvi d’horari.,El professor ha avisat als alumnes sobre el canvi d’horari.,13.924853572258144,14.965732634882443
+18,BSC-LT/RoBERTa-ca,a_od,El jutge ha interrogat els testimonis del cas.,El jutge ha interrogat als testimonis del cas.,11.003219316713512,12.033673957921565
+19,BSC-LT/RoBERTa-ca,a_od,Han seleccionat els millors candidats per al lloc de feina.,Han seleccionat als millors candidats per al lloc de feina.,15.2804884131765,18.114768331171945
+20,BSC-LT/RoBERTa-ca,com_reg,Al restaurant fa molta olor de fregit.,Al restaurant fa molta olor a fregit.,14.828225702047348,14.811973065137863
+21,BSC-LT/RoBERTa-ca,com_reg,Tinc por de les aranyes.,Tinc por a les aranyes.,5.33098666369915,9.39977864921093
+22,BSC-LT/RoBERTa-ca,com_reg,El meu horari és diferent del teu.,El meu horari és diferent al teu.,10.62092532031238,11.075287324376404
+23,BSC-LT/RoBERTa-ca,com_reg,La solució del problema és molt senzilla.,La solució al problema és molt senzilla.,5.680727506056428,2.8160592084750533
+24,BSC-LT/RoBERTa-ca,com_reg,La noia va aprofitar per treure profit de la situació i va guanyar molts diners.,La noia va aprofitar per treure profit a la situació i va guanyar molts diners.,11.41742156946566,16.83361563947983
+25,BSC-LT/RoBERTa-ca,com_reg,Va fer cas de les recomanacions del metge.,Va fer cas a les recomanacions del metge.,14.51444408041425,15.095180567353964
+26,BSC-LT/RoBERTa-ca,com_reg,Sento una forta pudor de cremat a la cuina.,Sento una forta pudor a cremat a la cuina.,16.577409042045474,19.541394545696676
+27,BSC-LT/RoBERTa-ca,com_reg,L’article fa esment de diverses investigacions recents.,L’article fa esment a diverses investigacions recents.,11.007666360586882,13.299698893679306
+28,BSC-LT/RoBERTa-ca,com_reg,Va mostrar un clar rebuig de la proposta.,Va mostrar un clar rebuig a la proposta.,16.80462535470724,11.834905475378036
+29,BSC-LT/RoBERTa-ca,com_reg,Hauries de fer un bon repàs de la matèria abans de l’examen.,Hauries de fer un bon repàs a la matèria abans de l’examen.,12.807614078192273,13.608192204570514
+30,BSC-LT/RoBERTa-ca,alt_prep,Tenim molt d'interès a complir els nostres compromisos.,Tenim molt d'interès en complir els nostres compromisos.,4.7928487271710765,4.927251513392548
+31,BSC-LT/RoBERTa-ca,alt_prep,La idea consisteix a analitzar els models.,La idea consisteix en analitzar els models.,24.937772814184427,26.098623856902122
+32,BSC-LT/RoBERTa-ca,alt_prep,La majoria d'estudiants es van mostrar d'acord a fer una pausa.,La majoria d'estudiants es van mostrar d'acord en fer una pausa.,12.839654980503838,13.252081012091367
+33,BSC-LT/RoBERTa-ca,alt_prep,La van amenaçar de despatxar-la.,La van amenaçar amb despatxar-la.,7.167950082570314,4.557145490834955
+34,BSC-LT/RoBERTa-ca,alt_prep,Insisteixen a tornar cap a casa.,Insisteixen en tornar cap a casa.,7.857462597428821,8.667210324842017
+35,BSC-LT/RoBERTa-ca,alt_prep,Va mostrar interès a aprendre nous mètodes per fer aquests exercicis.,Va mostrar interès en aprendre nous mètodes per fer aquests exercicis.,19.10073570907116,18.725188314914703
+36,BSC-LT/RoBERTa-ca,alt_prep,L'exercici es basa a explicar les circumstàncies del conflicte.,L'exercici es basa en explicar les circumstàncies del conflicte.,20.499352393322624,18.75478396844119
+37,BSC-LT/RoBERTa-ca,alt_prep,Ens complaem a acceptar la vostra col·laboració.,Ens complaem en acceptar la vostra col·laboració.,18.172651571425376,17.18166301623569
+38,BSC-LT/RoBERTa-ca,alt_prep,"Engrescat a fundar la coral, tot el temps que hi dedica li sembla poc.","Engrescat en fundar la coral, tot el temps que hi dedica li sembla poc.",22.66684575052932,26.782540114363655
+39,BSC-LT/RoBERTa-ca,alt_prep,"Estava tan capficat a completar la jugada, que no es va adonar que el temps s'havia acabat. ","Estava tan capficat en completar la jugada, que no es va adonar que el temps s'havia acabat. ",28.87098552347743,30.295504683221225
+40,BSC-LT/RoBERTa-ca,motiu_de,"Amb motiu de la seva jubilació, li van organitzar una festa sorpresa.","En motiu de la seva jubilació, li van organitzar una festa sorpresa.",6.659901425373391,8.717592455883278
+41,BSC-LT/RoBERTa-ca,motiu_de,La botiga va tancar amb motiu de les obres al carrer.,La botiga va tancar en motiu de les obres al carrer.,9.972797476279084,12.204738953500055
+42,BSC-LT/RoBERTa-ca,motiu_de,Es va organitzar un concert benèfic amb motiu de la recaptació de fons.,Es va organitzar un concert benèfic en motiu de la recaptació de fons.,9.789357646193821,11.068915634095902
+43,BSC-LT/RoBERTa-ca,motiu_de,"Amb motiu del Dia del Llibre, les llibreries fan descomptes.","En motiu del Dia del Llibre, les llibreries fan descomptes.",7.755848881788552,9.410571973770857
+44,BSC-LT/RoBERTa-ca,motiu_de,Van cancel·lar el vol amb motiu del mal temps.,Van cancel·lar el vol en motiu del mal temps.,10.932768372818828,15.563529697945341
+45,BSC-LT/RoBERTa-ca,motiu_de,L'ajuntament va emetre un comunicat amb motiu de la nova normativa.,L'ajuntament va emetre un comunicat en motiu de la nova normativa.,9.169582379283383,13.384567655739374
+46,BSC-LT/RoBERTa-ca,motiu_de,Es va tallar el trànsit amb motiu de la manifestació.,Es va tallar el trànsit en motiu de la manifestació.,6.495099519641371,8.195414980640635
+47,BSC-LT/RoBERTa-ca,motiu_de,La reunió es va ajornar amb motiu de l'absència del director.,La reunió es va ajornar en motiu de l'absència del director.,12.689578783480101,16.320571138945525
+48,BSC-LT/RoBERTa-ca,motiu_de,"Amb motiu de la celebració, el museu ofereix entrada gratuïta.","En motiu de la celebració, el museu ofereix entrada gratuïta.",6.3136758410255425,9.25001317022543
+49,BSC-LT/RoBERTa-ca,motiu_de,L'empresa va fer una donació amb motiu de la campanya solidària.,L'empresa va fer una donació en motiu de la campanya solidària.,17.859087779710535,20.527863302908372
+50,BSC-LT/RoBERTa-ca,confiar,Pots confiar en mi per guardar el secret.,Pots confiar amb mi per guardar el secret.,17.035743217915297,31.241951763629913
+51,BSC-LT/RoBERTa-ca,confiar,"No confio en les seves promeses, sempre les incompleix.","No confio amb les seves promeses, sempre les incompleix.",14.848844799213111,21.907222488662228
+52,BSC-LT/RoBERTa-ca,confiar,Cal confiar en el criteri dels experts.,Cal confiar amb el criteri dels experts.,3.9325413873884827,12.931638370617293
+53,BSC-LT/RoBERTa-ca,confiar,He après a no confiar en qualsevol que sembli amable.,He après a no confiar amb qualsevol que sembli amable.,19.707504727877676,26.499512996990234
+54,BSC-LT/RoBERTa-ca,confiar,"Perquè la relació funcioni, heu de confiar l'un en l'altre.","Perquè la relació funcioni, heu de confiar l'un amb l'altre.",12.992875657073455,19.24655643274309
+55,BSC-LT/RoBERTa-ca,confiar,Confiem en que tot sortirà bé al final.,Confiem amb que tot sortirà bé al final.,10.293996977386996,14.983631271868944
+56,BSC-LT/RoBERTa-ca,confiar,És difícil confiar en algú que t'ha mentit abans.,És difícil confiar amb algú que t'ha mentit abans.,6.2781792279856745,13.218273774458794
+57,BSC-LT/RoBERTa-ca,confiar,Els ciutadans confien en la justícia del seu país.,Els ciutadans confien amb la justícia del seu país.,10.016697675455362,16.115732833044603
+58,BSC-LT/RoBERTa-ca,confiar,Confio plenament en les teves capacitats per liderar el projecte.,Confio plenament amb les teves capacitats per liderar el projecte.,11.443952852161601,14.829352942062542
+59,BSC-LT/RoBERTa-ca,confiar,La directora confia en tot el seu equip per assolir els objectius.,La directora confia amb tot el seu equip per assolir els objectius.,11.051272437907755,19.38918957253918
+60,BSC-LT/RoBERTa-ca,anar,Vés amb compte quan creuis el carrer.,Vés en compte quan creuis el carrer.,6.541849073953927,9.28644586680457
+61,BSC-LT/RoBERTa-ca,anar,"Aneu amb compte amb el terra, que rellisca.","Aneu en compte amb el terra, que rellisca.",8.557127872947603,10.75961389252916
+62,BSC-LT/RoBERTa-ca,anar,Cal anar amb compte a l'hora de signar contractes.,Cal anar en compte a l'hora de signar contractes.,5.101058701460715,6.688961972598918
+63,BSC-LT/RoBERTa-ca,anar,Sempre vaig amb compte amb el que dic en públic.,Sempre vaig en compte amb el que dic en públic.,6.737612556666136,8.827114580199122
+64,BSC-LT/RoBERTa-ca,anar,Van anar amb molt de compte per no fer soroll.,Van anar en molt de compte per no fer soroll.,15.858234996674582,22.290502259507775
+65,BSC-LT/RoBERTa-ca,anar,"Si no vas amb compte, et pots fer mal.","Si no vas en compte, et pots fer mal.",5.756753785070032,7.845091833733022
+66,BSC-LT/RoBERTa-ca,anar,"Anem amb compte, que no sabem què ens trobarem.","Anem en compte, que no sabem què ens trobarem.",6.617665559053421,9.363180071115494
+67,BSC-LT/RoBERTa-ca,anar,El metge li va dir que anés amb compte amb els greixos.,El metge li va dir que anés en compte amb els greixos.,12.418639010982588,15.504295457620174
+68,BSC-LT/RoBERTa-ca,anar,"És una situació delicada, hem d'anar amb compte.","És una situació delicada, hem d'anar en compte.",10.624056703352835,12.549290986105916
+69,BSC-LT/RoBERTa-ca,anar,Aneu amb compte amb les estafes per internet.,Aneu en compte amb les estafes per internet.,6.176628903485835,9.502803868614137
+70,BSC-LT/RoBERTa-ca,propens,És molt propens a agafar refredats a l'hivern.,És molt propens de agafar refredats a l'hivern.,10.01928822010268,26.082454241870437
+71,BSC-LT/RoBERTa-ca,propens,Aquesta planta és propensa a les plagues si no la cuides bé.,Aquesta planta és propensa de les plagues si no la cuides bé.,4.251333838677965,14.90044598246459
+72,BSC-LT/RoBERTa-ca,propens,Els adolescents són més propensos a prendre riscos innecessaris.,Els adolescents són més propensos de prendre riscos innecessaris.,10.314553519732726,16.240893921476527
+73,BSC-LT/RoBERTa-ca,propens,Les persones amb pells clares són propenses a les cremades solars.,Les persones amb pells clares són propenses de les cremades solars.,20.240526146430057,28.946017920039594
+74,BSC-LT/RoBERTa-ca,propens,El meu oncle és propens a explicar sempre les mateixes anècdotes.,El meu oncle és propens de explicar sempre les mateixes anècdotes.,15.012824640609324,30.85454855300486
+75,BSC-LT/RoBERTa-ca,propens,Aquesta zona és propensa a les inundacions quan plou fort.,Aquesta zona és propensa de les inundacions quan plou fort.,5.123037222307175,15.068263165652752
+76,BSC-LT/RoBERTa-ca,propens,Som propensos a oblidar les claus a casa.,Som propensos de oblidar les claus a casa.,23.809733020258136,39.679195216624066
+77,BSC-LT/RoBERTa-ca,propens,No sóc gens propens a enfadar-me per tonteries.,No sóc gens propens de enfadar-me per tonteries.,15.31820253195474,29.296538388356566
+78,BSC-LT/RoBERTa-ca,propens,Les economies inestables són propenses a patir crisis financeres.,Les economies inestables són propenses de patir crisis financeres.,4.76032980724267,10.672179301502183
+79,BSC-LT/RoBERTa-ca,propens,Aquest material és propens a l'oxidació si s'exposa a la humitat.,Aquest material és propens de l'oxidació si s'exposa a la humitat.,8.616386293666437,17.692323481081985
